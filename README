@@ -1,0 +1,36 @@
+Tugas Akhir Mata Kuliah Struktur Data
+
+Project  : MBG Manager (Sistem Manajemen Makan Bergizi Gratis)
+Released : December 2025
+
+Team :
+    R. Revaldo Vabiansyah
+    Pijar Rizky Hentawan
+    Arsya Fitria Yahdini
+    Putri Fauziah Rahma
+
+Pendahuluan
+      MBG Manager (Sistem Manajemen Makan Bergizi Gratis) merupakan  aplikasi 
+    desktop berbasis GUI yang dirancang  untuk mengelola data  dapur, sekolah 
+    penerima,  serta  proses distribusi  Program Makan Bergizi  Gratis secara 
+    terstruktur dan efisien. 
+
+Isi
+      Aplikasi ini dikembangkan menggunakan bahasa Python dan Tkinter  dengan 
+    penerapan berbagai  struktur data,  antara  lain Linked  List, Hash Table, 
+    Queue,  Stack,  Tree, dan  Graph.  Algoritma  Breadth  First  Search (BFS) 
+    digunakan untuk memvisualisasikan alur distribusi makanan  dari  dapur ke 
+    sekolah penerima. Visualisasinya sederhana menggunakan Tkinter.
+    
+Penutup
+      Si MBG diharapkan dapat menjadi media pembelajaran yang  efektif  dalam
+    memahami penerapan struktur data pada sistem  nyata serta  menjadi  dasar
+    pengembangan sistem distribusi yang lebih kompleks di masa mendatang.
+
+
+Information Systems
+Faculty of Mathematics and Natural Science
+University of Lampung
+2025
+
+— MBG Manager
